@@ -1,2 +1,2 @@
 # mailbox-monitor
-Mailbox monitor with camera and sensors
+Solar-charged-battery-powered mailbox monitor with camera and sensors
